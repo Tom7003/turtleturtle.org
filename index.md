@@ -31,7 +31,7 @@ title: TurtleTurtle.org
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_DOGE) → Tradesatoshi Exchange [DOGE]  
 
 ### Pools
-[trtl.flashpool.club](https://trtl.flashpool.club) → EU FlashPool 
+[trtl.flashpool.club](https://trtl.flashpool.club) → EU FlashPool
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
 [slowandsteady.fun ](http://slowandsteady.fun/) → Slow and Steady  
@@ -51,7 +51,7 @@ title: TurtleTurtle.org
 [trtl.ninja](https://trtl.ninja/) → trtl.ninja  
 
 ### Public Daemons
-[daemon.turtle.link:11897](http://daemon.turtle.link:11897) → Tom's public daemon  
+[daemon.turtle.link:11898](http://daemon.turtle.link:11898) → Tom's public daemon  
 
 ### Projects
 [Ooze Wallet](https://github.com/rocksteadytc/ooze) → Qt GUI Wallet  
